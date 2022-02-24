@@ -1,0 +1,84 @@
+.nav-item{
+    padding: 10px;
+}
+.logo-img{
+    height: 61px;
+}
+.nev-margin{
+    margin-top: 30px;
+}
+.margintop{
+    margin-bottom: 20px;
+}
+.carousel-item{
+    padding-left: 8px;
+}
+.col-md-6 p{
+    width: 55%;
+}
+.col-md-5 img{
+    padding-bottom: 30px;
+}
+.carousel-indicators{
+    margin: -50px;
+}
+
+.slide-bg{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70px;
+}
+
+/* --- Slider Buttons --- */
+.carousel-dark .carousel-indicators [data-bs-target]{
+    background-color: cyan;
+
+}
+.banner-area {
+    position: relative;
+}
+
+.banner-area .shape{
+    position: absolute;
+    left: -40px;
+    bottom: -60px;
+    height: 130px;
+    
+}
+section shape{
+    height: 135px;
+}
+.top-mr{
+    margin-top: 100px;
+}
+.hader-item{
+    margin-bottom: 30px;
+}
+.hader-item a{
+    text-decoration: none;
+    color: #ff9d00;
+    padding-top: 5.5px;
+}
+.buy-button{
+    background-color: black;
+    color: #fff;
+    padding: 8px 20px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 7px 7px 15px #d8d5d5;
+}
+.card-img-top{
+    padding: 50px;
+}
+.card-body p{
+    font-size: 15px;
+    width: 85%;
+    margin-left: 26px;
+    color:#878787;
+    margin: 20px;
+}
